@@ -1,4 +1,4 @@
-# Information-Gathering
+# InformationGathering
 
 ASSIGNMENT FOR BRAINSTATION
 
